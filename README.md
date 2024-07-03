@@ -5,7 +5,9 @@ There are different ways to affect the text size in a phone.
 ## Text Size
 
 In iOS, `Settings` > `Display & Brightness` > `Text Size` > Drag the slider for text size (A).
+
 In Android, `Settings` > `Display` > `Screen Zoom` > `Font Size and Style` > Drag the slider for font size (B).
+
 In iOS, `Settings` > `Display & Brightness` > `Display Zoom` there is an option for Larger Text (C).
 
 ## Capacitor Text Zoom Plugin
