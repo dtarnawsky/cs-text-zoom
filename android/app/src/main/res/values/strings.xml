@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cs-text-zoom</string>
+    <string name="title_activity_main">cs-text-zoom</string>
+    <string name="package_name">cs.text.zoom</string>
+    <string name="custom_url_scheme">cs.text.zoom</string>
+</resources>
