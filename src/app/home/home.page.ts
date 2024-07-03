@@ -22,9 +22,9 @@ export class HomePage {
     alert(`Text Zoom Value is ${result.value}`);
   }
 
-  async set() {
+  async set(s?: number) {
     const result = await TextZoom.getPreferred();
-    await TextZoom.set({ value: result.value });
+    await TextZoom.set({ value: s ? s : result.value });
 
   }
 }
